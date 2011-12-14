@@ -8,7 +8,8 @@ This is an attempt at restoring the Mobile Applications/Build feature in Dreamwe
 **NOTE: This patch involves deleting and replacing files in the Dreamweaver folder. I make no warranty that this will work. This may make Dreamweaver unusable for you.
 Use at your own risk.**
 
-The iphone folder in this project should be copied over the iphone folder in 
+The iphone folder in this project should be copied over the iphone folder in
+ 
  `/Applications/Adobe Dreamweaver CS5.5/Configuration/NativeAppFramework/DWPhoneGap/`.
 
 This is based on 1.2.0 so you may have to delete your old target/xxx_iOS folder.
