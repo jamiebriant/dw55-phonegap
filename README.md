@@ -11,3 +11,5 @@ The iphone folder in this project should be copied over the iphone folder in
 This is based on 1.2.0 so you may have to delete your old target/xxx_iOS folder.
 
 Haven't got the Android version working yet.
+
+**Note:** There are two main.m files. The one in the root of the PhoneGapApp folder is a dummy file that Dreamweaver looks for to see if it needs to rebuild the directory.
